@@ -1,5 +1,5 @@
 # To-Do-List-With-C
-Final project for C course
+##Final project for C course
 After completing C course . I was asked to write a code for a To-Do list using pointers and dynamic allocation to enable user to add and delete tasks as they want.
 
 the project  has options :
